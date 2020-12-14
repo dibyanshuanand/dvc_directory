@@ -7,4 +7,4 @@ which is a central government organization.
 The app contains contact details of various employees organized according to the projects they are working on.
 An additional search function provides details across all projects for quick reference.
 
-The app has been created using Flutter & SQLite as db of choice.
+The app has been created using Flutter for the app and SQLite as db of choice.
