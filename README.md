@@ -1,16 +1,10 @@
-# dvcdirectory
+# DVC Directory
 
 Directory containing contact details of DVC employees.
 
-## Getting Started
+This app has been built to facilitate easier internal communication within DVC (Damodar Valley Corporation), 
+which is a central government organization.
+The app contains contact details of various employees organized according to the projects they are working on.
+An additional search function provides details across all projects for quick reference.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app has been created using Flutter & SQLite as db of choice.
